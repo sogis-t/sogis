@@ -13,5 +13,5 @@ body:
       label: Urgentbug
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: Urgent
+        - label: Urgent adf
           required: false
