@@ -10,8 +10,8 @@ body:
   - type: checkboxes
     id: urgent
     attributes:
-      label: Urgentbug
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Urgentticket
+      description: Der Fehler verunmöglicht das weitere Arbeiten und muss schnellstmöglicht gefixed werden.
       options:
         - label: Urgent adf
           required: false
