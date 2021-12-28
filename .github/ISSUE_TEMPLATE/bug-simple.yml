@@ -13,5 +13,5 @@ body:
       label: Urgentticket
       description: Der Fehler verunmöglicht das weitere Arbeiten und muss schnellstmöglicht gefixed werden.
       options:
-        - label: Urgent adf
+        - label: Ist Urgentticket.
           required: false
