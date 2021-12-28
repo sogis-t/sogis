@@ -1,5 +1,5 @@
-name: Bug
-description: File a bug report
+name: Issue (advanced)
+description: File an advanced issue report
 body:
   - type: markdown
     attributes:
