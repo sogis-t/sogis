@@ -7,3 +7,11 @@ body:
       label: Beschreibung
     validations:
       required: true
+  - type: checkboxes
+    id: urgent
+    attributes:
+      label: Urgent-Ticket
+      description: Verhindert der Bug das Weiterarbeiten und ist eine schnellstmögliche Lösung zu finden?
+      options:
+        - label: Urgent?
+          required: false
