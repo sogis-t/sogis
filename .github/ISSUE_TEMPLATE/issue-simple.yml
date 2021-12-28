@@ -11,7 +11,6 @@ body:
     id: urgent
     attributes:
       label: Urgentticket
-      description: Der Fehler verunmöglicht das weitere Arbeiten und muss schnellstmöglicht gefixed werden.
       options:
-        - label: Ist Urgentticket.
+        - label: Der Fehler verunmöglicht das weitere Arbeiten und muss schnellstmöglicht gefixed werden.
           required: false
