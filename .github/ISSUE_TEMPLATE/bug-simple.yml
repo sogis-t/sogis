@@ -8,10 +8,9 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: terms
+    id: urgent
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Urgentbug
+      description: Muss der Bug schnellstmöglich gefixed werden?
       options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - label: Urgent?
