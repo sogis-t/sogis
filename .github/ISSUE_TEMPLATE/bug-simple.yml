@@ -10,7 +10,8 @@ body:
   - type: checkboxes
     id: urgent
     attributes:
-      label: Urgentbug
-      description: Muss der Bug schnellstmoeglich gefixed werden?
+      label: Urgent
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: Urgent?
+        - label: I agree to follow this project's Code of Conduct
+          required: true
