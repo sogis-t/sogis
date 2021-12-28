@@ -1,8 +1,8 @@
-name: Bug
-description: File a bug report
+name: Ticket
+description: File an issue report
 body:
   - type: textarea
-    id: bug-description
+    id: issue-description
     attributes:
       label: Beschreibung
     validations:
