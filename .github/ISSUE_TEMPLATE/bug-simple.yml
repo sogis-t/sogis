@@ -11,6 +11,6 @@ body:
     id: urgent
     attributes:
       label: Urgentbug
-      description: Muss der Bug schnellstmöglich gefixed werden?
+      description: Muss der Bug schnellstmoeglich gefixed werden?
       options:
         - label: Urgent?
