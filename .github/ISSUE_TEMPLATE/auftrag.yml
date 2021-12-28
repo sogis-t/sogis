@@ -16,7 +16,7 @@ body:
       description: Kontext des Auftrages / Bestehende Lösung beschreiben.
     validations:
       required: true  
-  - type: input
+  - type: textarea
     id: ziele
     attributes:
       label: Ziele
@@ -30,10 +30,11 @@ body:
       description: Vorname und Name des Auftraggebers.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: abgrenzung
     attributes:
       label: Abgrenzung
-      description: Wichtig ist die klare Abgrenzung des Auftrages. Was ist nicht Bestandteil des Auftrages? Falls bereits weitere Ausbauschritte geplant sind, kann das hier vermerkt werden..
+      description: Wichtig ist die klare Abgrenzung des Auftrages. Was ist nicht Bestandteil des Auftrages? Falls bereits weitere Ausbauschritte geplant sind, kann das hier vermerkt werden.
+      placeholder: Wird vom AGI ausgefüllt.
     validations:
       required: false
